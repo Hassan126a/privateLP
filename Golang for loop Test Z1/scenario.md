@@ -1,4 +1,4 @@
-title: Golang for loop Test Z1
+title: Golang for loop Test HN
 description: Learn how Golang loops works and how it's different from other programming
   languages.
 time: 10 minutes
@@ -13,8 +13,6 @@ license: ""
 isPremium: true
 isNew: true
 isAvailable: true
-authors: 
-- z6
 isDraft: true
 state: draft
 image: ""
