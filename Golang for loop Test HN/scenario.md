@@ -17,4 +17,4 @@ image: ""
 thumbnail: https://brainarator.s3.amazonaws.com/go.svg
 license: "Apache"
 authors:
-- username
+- hassanaveed1
