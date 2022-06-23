@@ -1,4 +1,4 @@
-title: Golang for loop Test HN
+title: Golang Scenario Test HN
 description: Learn how Golang loops works and how it's different from other programming
   languages.
 time: 20 minutes
@@ -11,10 +11,5 @@ steps:
 isPremium: true
 isNew: true
 isAvailable: true
-isDraft: true
-state: draft
 image: ""
-thumbnail: https://brainarator.s3.amazonaws.com/go.svg
 license: "Apache"
-authors:
-- hassanaveed1
