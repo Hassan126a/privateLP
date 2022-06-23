@@ -1,7 +1,7 @@
 title: Golang for loop Test HN
 description: Learn how Golang loops works and how it's different from other programming
   languages.
-time: 10 minutes
+time: 20 minutes
 level: beginner
 steps:
 - step1.md
@@ -15,6 +15,6 @@ isDraft: true
 state: draft
 image: ""
 thumbnail: https://brainarator.s3.amazonaws.com/go.svg
-license: ""
+license: "Apache"
 authors:
- - username
+- username
