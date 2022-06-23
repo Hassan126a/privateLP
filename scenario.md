@@ -1,7 +1,7 @@
-title: Golang Scenario Test HN
-description: Learn how Golang loops works and how it's different from other programming
+title: Hn First Scenario In Golang
+description: Learn how Golang works and how it's different from other programming
   languages.
-time: 20 minutes
+time: 30 minutes
 level: beginner
 steps:
 - step1.md
