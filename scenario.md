@@ -1,4 +1,4 @@
-title: Hn First Scenario In Golang
+title: Hn Second Scenario In Docker
 description: Learn how Golang works and how it's different from other programming
   languages.
 time: 30 minutes
