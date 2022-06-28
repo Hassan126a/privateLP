@@ -1,4 +1,4 @@
-title: Hn First Docker Scenario in Maria LP
+title: Hn Scenario2 in Docker
 description: Learn how Golang works and how it's different from other programming
   languages.
 time: 30 minutes
