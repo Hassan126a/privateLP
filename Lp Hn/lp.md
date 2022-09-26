@@ -7,5 +7,4 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-  - Hassan Scenario4
 title: Lp Hn
