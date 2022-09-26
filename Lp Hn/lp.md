@@ -7,4 +7,6 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
+  - Hn Scenario1
+  - Hn Scenario2
 title: Lp Hn
