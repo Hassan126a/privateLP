@@ -5,7 +5,6 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 2
 scenarios:
   - Hassan Scenario3
   - Hassan Scenario4
