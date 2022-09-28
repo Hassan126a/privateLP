@@ -5,7 +5,7 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 2
+scenarioCount: 3
 scenarios:
   - Hn Scenario1
   - Hn Scenario2
