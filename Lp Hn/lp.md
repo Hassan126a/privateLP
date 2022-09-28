@@ -9,5 +9,5 @@ scenarioCount: 3
 scenarios:
   - Hn Scenario1
   - Hn Scenario2
-  - Hn scenario
+  - Hn Scenario
 title: Lp Hn
