@@ -7,4 +7,4 @@ isPremium: true
 isAvailable: true
 description: hello description. How are you@!? whats going on.
 time: 25 minutes
-level: Beginner
+level: beginner
